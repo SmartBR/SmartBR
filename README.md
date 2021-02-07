@@ -20,7 +20,7 @@
 <br />
 
 ### 🔨Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />
+<img align="left" alt="Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrmE3-PI9rdK0uhSSx7gTnB_bV2n3a7Rlng&usqp=CAU" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOOUadE8CU7mcYK8WBpU-LO3HUAOibAU3Jg&usqp=CAU" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
