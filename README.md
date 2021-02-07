@@ -4,9 +4,11 @@
 <a href="https://discord.gg/Smart#5811">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+  
+<br />
+<br />
 
-
-## I'm a Developer and Gamer!!
+## I'm an Enthusiastic, Entrepreneur, Developer and Student!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -15,12 +17,6 @@
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tsclp5us0p2mmd41hoy1jda3g&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tsclp5us0p2mmd41hoy1jda3g&redirect=true)
-
-
-### Connect with me:
-
-[<img align="left" alt="Gustavo | Discord" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -55,7 +51,3 @@
   <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=SmartBR&theme=dracula&layout=compact&langs_count=8" />
 
 </details> 
-
-<!-- # [instagram]: https://instagram.com/gustavx.02.10-->
-[discord]: https://discord.com/users/784859994046201876
-[twitter]: https://twitter.com/SmarttBR
