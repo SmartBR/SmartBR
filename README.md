@@ -15,11 +15,11 @@
 ### Connect with me:
 
 [<img align="left" alt="Gustavo | Discord" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<a target="_blank" href="https://twitter.com/SmarttBR"><img align="left" alt="Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]</a>
+[<img align="left" alt="Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### 🔨Languages and Tools:
+### 🔨 Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOOUadE8CU7mcYK8WBpU-LO3HUAOibAU3Jg&usqp=CAU" />
@@ -55,3 +55,4 @@
 
 <!-- # [instagram]: https://instagram.com/gustavx.02.10-->
 [discord]: https://discord.com/users/784859994046201876
+[twitter]: https://twitter.com/SmarttBR
