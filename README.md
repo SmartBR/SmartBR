@@ -20,15 +20,17 @@
 <br />
 
 ### 🔨Languages and Tools:
-<img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Basic" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1024px-VB.NET_Logo.svg.png" />
+<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOOUadE8CU7mcYK8WBpU-LO3HUAOibAU3Jg&usqp=CAU" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+
 <br />
 <br />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" />
 <img align="left" alt="MySQL" width="26px" src="http://lrodrigo.sgs.lncc.br/wp/wp-content/uploads/2017/11/mysql_hosting.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://appmasters.io/static/mongo-db-logo-cf626961400efe5ec74769616f083a37.png" />
