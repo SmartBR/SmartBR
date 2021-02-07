@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="Gustavo Spotify Playing" width="350" />](https://open.spotify.com/user/tsclp5us0p2mmd41hoy1jda3g)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=tsclp5us0p2mmd41hoy1jda3g&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tsclp5us0p2mmd41hoy1jda3g&cover_image=true&theme=novatorem)]]
 
 
 ### Connect with me:
