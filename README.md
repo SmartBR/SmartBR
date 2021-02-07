@@ -1,4 +1,9 @@
 ### Hi there, I'm Gustavo  👋
+<a href="https://twitter.com/SmarttBR">
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://discord.gg/Smart#5811">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 
 ## I'm a Developer and Gamer!!
