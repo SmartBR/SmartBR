@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[comment]: # [<img align="left" alt="Gustavo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--[<img align="left" alt="Gustavo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 [<img align="left" alt="Gustavo | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
@@ -58,5 +58,5 @@
 
 </details> 
 
-[comment]: # [instagram]: https://instagram.com/diogomarques.08.10
+<!-- # [instagram]: https://instagram.com/diogomarques.08.10-->
 [discord]: https://discord.com/users/784859994046201876
