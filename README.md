@@ -20,7 +20,7 @@
 <br />
 
 ### 🔨 Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" />
+<img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/8d1452c2b69fb2a42cf6f3889ff9659a7d35e42cbb45935f5790e81371039fb1/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f6a6176612d69636f6e2d706e672f6a6176612d69636f6e2d706e672d31352e6a7067" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOOUadE8CU7mcYK8WBpU-LO3HUAOibAU3Jg&usqp=CAU" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
