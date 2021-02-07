@@ -6,8 +6,6 @@
 </a>
   
 <br />
-<br />
-
 
 ## I'm an Enthusiastic, Entrepreneur, Developer and Student!
 
