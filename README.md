@@ -29,10 +29,10 @@
 <br />
 <br />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="SQL" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" />
+<img align="left" alt="MySQL" width="26px" src="http://lrodrigo.sgs.lncc.br/wp/wp-content/uploads/2017/11/mysql_hosting.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://appmasters.io/static/mongo-db-logo-cf626961400efe5ec74769616f083a37.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_505df21738edbe9baababa9d60be291d/github.png" />
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" />
 
 <br />
