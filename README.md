@@ -32,8 +32,8 @@
 <img align="left" alt="SQL" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" />
 <img align="left" alt="MySQL" width="26px" src="http://lrodrigo.sgs.lncc.br/wp/wp-content/uploads/2017/11/mysql_hosting.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://appmasters.io/static/mongo-db-logo-cf626961400efe5ec74769616f083a37.png" />
-<img align="left" alt="GitHub" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_505df21738edbe9baababa9d60be291d/github.png" />
-<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" />
+<img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/firebase/images/touchicon-180.png" />
 
 <br />
 <br />
