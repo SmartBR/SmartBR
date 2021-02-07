@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Gustavo | Discord" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Gustavo | Twitter" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Gustavo | Twitter" width="22px" target="_blank" href="https://twitter.com/SmarttBR" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
