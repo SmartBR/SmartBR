@@ -25,9 +25,6 @@
 <img align="left" alt="Kotlin" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOOUadE8CU7mcYK8WBpU-LO3HUAOibAU3Jg&usqp=CAU" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://camo.githubusercontent.com/728910691bb690edee33bc5cfdf5c931f3b5d05a2f1dd3330766a09aa7a91698/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f333030783330302e706e67" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
 
 <br />
 <br />
@@ -36,6 +33,12 @@
 <img align="left" alt="MySQL" width="26px" src="http://lrodrigo.sgs.lncc.br/wp/wp-content/uploads/2017/11/mysql_hosting.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://appmasters.io/static/mongo-db-logo-cf626961400efe5ec74769616f083a37.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/firebase/images/touchicon-180.png" />
+
+<br />
+<br />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://camo.githubusercontent.com/728910691bb690edee33bc5cfdf5c931f3b5d05a2f1dd3330766a09aa7a91698/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f333030783330302e706e67" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
 
 <br />
 <br />
