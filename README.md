@@ -38,8 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Gustavo GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartBR&count_private=true)
-" />
+  <img align="left" alt="Gustavo GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartBR&count_private=true)"/>
 
 </details> 
 
