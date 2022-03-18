@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tsclp5us0p2mmd41hoy1jda3g&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tsclp5us0p2mmd41hoy1jda3g&redirect=true)
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### 🔨 Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/8d1452c2b69fb2a42cf6f3889ff9659a7d35e42cbb45935f5790e81371039fb1/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f6a6176612d69636f6e2d706e672f6a6176612d69636f6e2d706e672d31352e6a7067" />
